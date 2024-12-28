@@ -37,6 +37,8 @@ export class RestaurentDashComponent implements OnInit {
     this.formValue.reset();
     this.showAdd = true;
     this.showBtn = false;
+
+    
   }
  
   addRestaurent()
